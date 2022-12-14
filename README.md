@@ -5,6 +5,7 @@
 - 💻 I'm a Systems Engineer and Graphic Designer
 - 🏢 I’m currently working at CA team
 - ⚡ I love programming, typography and frontend development.
+- 🤓 Personal account: [@rparias](https://github.com/rparias)
 
 
 #### Languages and Tools 

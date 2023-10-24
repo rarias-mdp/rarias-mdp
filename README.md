@@ -21,11 +21,6 @@
 
 </p>
 
-<br />
-
-[![Ronald's github stats](https://github-readme-stats.vercel.app/api?username=rarias-mdp&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/rarias-mdp?tab=repositories)&nbsp;&nbsp;
-
-
 #### Find me on  
 
  <p align='left'>

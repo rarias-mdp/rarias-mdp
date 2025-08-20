@@ -3,7 +3,6 @@
 <a href="https://github.com/rparias"><img align='right' src='https://raw.githubusercontent.com/rparias/rparias/main/svg/github-icon-moving.gif' width='150"'></a></h2>
 
 - 💻 I'm a Systems Engineer and Graphic Designer
-- 🏢 I’m currently working at MDC team
 - ⚡ I love programming, typography and frontend development.
 - 🤓 Personal account: [@rparias](https://github.com/rparias)
 
